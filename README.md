@@ -15,7 +15,7 @@ A web application that allows users to search for any country and view details l
 - REST Countries API
 
 ## Live Demo
-https://vanshika-3010.github.io/Country-Info-finder/
+[https://vanshika-3010.github.io/Country-Info-finder/](https://vanshika-3010.github.io/Country-Info_finder/)
 
 ## Author
 Vanshika Mudgal
